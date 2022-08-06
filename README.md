@@ -27,5 +27,5 @@
 <img src="https://github.com/KholoodS/KholoodS/blob/main/github-user-contribution.svg"  style="max-width: 100%; display: inline-block" >
 
 <br>
-![](https://visitcount.itsvg.in/api?id=KholoodS&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
