@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-
+### Hi there <div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/LVjJhHQXasrfi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/20s-LVjJhHQXasrfi">via GIPHY</a></p>
 
 # 💫 About Me:
 - 🔭 I’m currently working on website development.<br>- 🌱 I’m currently learning Linux Kernel Development.<br>- 👯 I’m looking to collaborate on projects aimed at solving real-life problems using data strutures and algorithms.<br>- 🤔 I’m looking for help with Data Analysis tools and Python.<br>- 💬 Ask me about System Design.<br>- 📫 How to reach me: sjkholood@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: People cannot guess whether i am a girl or boy by just looking at my name<br>
