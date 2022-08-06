@@ -4,10 +4,11 @@
 - 🔭 I’m currently working on website development.<br>- 🌱 I’m currently learning Linux Kernel Development.<br>- 👯 I’m looking to collaborate on projects aimed at solving real-life problems using data strutures and algorithms.<br>- 🤔 I’m looking for help with Data Analysis tools and Python.<br>- 💬 Ask me about System Design.<br>- 📫 How to reach me: sjkholood@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: People cannot guess whether i am a girl or boy by just looking at my name<br>
 
 
- <h2>🌐 Socials:
+ <h2>🌐 Socials:</h2>
+ 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kholoodsajid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kholood-jenan-sajid) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sjkholood) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@kholoodsajid) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kholoodjenan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@KholoodSajid) 
 <br>
- </h2>
+ 
 
 
  💻 Tech Stack:
