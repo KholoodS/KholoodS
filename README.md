@@ -22,7 +22,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=KholoodS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KholoodS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KholoodS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+<img src="https://github.com/KholoodS/KholoodS/blob/main/github-user-contribution.svg"  style="max-width: 100%; display: inline-block" >
 
 <br>
-[![](https://visitcount.itsvg.in/api?id=KholoodS&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=KholoodS&icon=0&color=0)](https://visitcount.itsvg.in)
 
