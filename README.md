@@ -1,4 +1,5 @@
-### Hi there <img src="https://github.com/KholoodS/KholoodS/blob/main/Hello.gif" style="max-width: 100%; display: inline-block" >
+### Hi there
+<img src="https://github.com/KholoodS/KholoodS/blob/main/Hello.gif" style="max-width: 100%; display: inline-block" >
 # 💫 About Me:
 - 🔭 I’m currently working on website development.<br>- 🌱 I’m currently learning Linux Kernel Development.<br>- 👯 I’m looking to collaborate on projects aimed at solving real-life problems using data strutures and algorithms.<br>- 🤔 I’m looking for help with Data Analysis tools and Python.<br>- 💬 Ask me about System Design.<br>- 📫 How to reach me: sjkholood@gmail.com<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: People cannot guess whether i am a girl or boy by just looking at my name<br>
 
