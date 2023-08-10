@@ -1,4 +1,6 @@
-# Hi, I'm Kholood Jenan Sajid  👋
+# Hi
+
+I'm Kholood Jenan Sajid  👋
 
 Full Stack Developer | Open Source Enthusiast | Problem Solver
 
@@ -19,8 +21,35 @@ Full Stack Developer | Open Source Enthusiast | Problem Solver
 - Database Design (SQL & MongoDB)
 - Git & Version Control
 
-const greeting = "Hello, world!";
-console.log(greeting);
+## Play Guess the Number Game
+
+<details>
+<summary>Click to play the game!</summary>
+
+```javascript
+const secretNumber = Math.floor(Math.random() * 100) + 1;
+let attempts = 0;
+let guessed = false;
+
+while (!guessed) {
+  const guess = parseInt(prompt("Guess a number between 1 and 100:"));
+
+  if (isNaN(guess)) {
+    console.log("Please enter a valid number.");
+  } else {
+    attempts++;
+
+    if (guess === secretNumber) {
+      guessed = true;
+      console.log(`Congratulations! You guessed the number ${secretNumber} in ${attempts} attempts.`);
+    } else if (guess < secretNumber) {
+      console.log("Try a higher number.");
+    } else {
+      console.log("Try a lower number.");
+    }
+  }
+}
+
 
 
 
