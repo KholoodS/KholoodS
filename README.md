@@ -43,7 +43,7 @@ Full Stack Developer | Open Source Enthusiast | Problem Solver
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/KJ">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1EppiL7gaVk99A">
     <img src="https://open.spotify.com/playlist/37i9dQZF1EppiL7gaVk99A" alt="Spotify recently played"  />
   </a>
 </div>
