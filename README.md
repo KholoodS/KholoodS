@@ -1,4 +1,4 @@
-# Hi [(<iframe src="https://giphy.com/embed/d8oI97avlJAygnp7RC" width="480" height="418" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shaymitchell-shay-mitchell-d8oI97avlJAygnp7RC">via GIPHY</a></p>)]
+# Hi [<div style="width:100%;height:0;padding-bottom:87%;position:relative;"><iframe src="https://giphy.com/embed/d8oI97avlJAygnp7RC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shaymitchell-shay-mitchell-d8oI97avlJAygnp7RC">via GIPHY</a></p>]
 
 
 # I'm Kholood Jenan Sajid  👋
