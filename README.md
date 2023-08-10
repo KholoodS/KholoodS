@@ -43,7 +43,7 @@ Full Stack Developer | Open Source Enthusiast | Problem Solver
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1EppiL7gaVk99A">
+  <a href="<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EppiL7gaVk99A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>">
     <img src="https://open.spotify.com/playlist/37i9dQZF1EppiL7gaVk99A" alt="Spotify recently played"  />
   </a>
 </div>
