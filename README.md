@@ -1,4 +1,4 @@
-# Hi, I'm [Kholood Jenan Sajid ] 👋
+# Hi, I'm Kholood Jenan Sajid  👋
 
 Full Stack Developer | Open Source Enthusiast | Problem Solver
 
