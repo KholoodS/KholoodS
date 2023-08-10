@@ -6,7 +6,6 @@ Full Stack Developer | Open Source Enthusiast | Problem Solver
 
 📫 Reach me at: [Email](mailto:kholoodjenansajid@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kholood-jenan-sajid/) |
 [Twitter](https://twitter.com/KholoodSajid)
-<h2 align="left">Hi 👋! My name is Kholood <br>I'm a developer from Pune</h2>
 
 ###
 
