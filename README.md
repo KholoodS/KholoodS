@@ -1,11 +1,10 @@
-# [Helo](<iframe src="https://giphy.com/embed/d8oI97avlJAygnp7RC" width="480" height="418" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shaymitchell-shay-mitchell-d8oI97avlJAygnp7RC">via GIPHY</a></p>)
-
+# Helo
 
 # I'm Kholood Jenan Sajid  👋
 
 Full Stack Developer | Open Source Enthusiast | Problem Solver
 
-📫 Reach me at: [Email](mailto:kholoodjenansajid@gmail.com) | [LinkedIn](<iframe src="https://giphy.com/embed/d8oI97avlJAygnp7RC" width="480" height="418" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shaymitchell-shay-mitchell-d8oI97avlJAygnp7RC">via GIPHY</a></p>) | 
+📫 Reach me at: [Email](mailto:kholoodjenansajid@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kholood-jenan-sajid/) |
 [Twitter](https://twitter.com/KholoodSajid)
 
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js%20%7C%20MongoDB-blue)](#tech-stack)
