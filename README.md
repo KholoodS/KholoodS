@@ -3,13 +3,6 @@ Full Stack Developer | Open Source Enthusiast | Problem Solver
 ![girl-setting-favorite-button-in-website](https://github.com/KholoodS/KholoodS/assets/79071032/13064d97-1de6-4c76-96de-35d10599be27)
 📫 Reach me at: [Email](mailto:kholoodjenansajid@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kholood-jenan-sajid/) |
 [Twitter](https://twitter.com/KholoodSajid)
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
